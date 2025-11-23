@@ -60,7 +60,7 @@ You can check out my C programs live on my GitHub Pages site here:
 ---
 
 ## 📅 Progress
-✅ **Days Completed:** 40 / 100  
+✅ **Days Completed:** 50 / 100  
 🕓 **Ongoing...**  
 
 ---
@@ -72,7 +72,7 @@ If you find a bug or want to improve a program, feel free to open an issue or su
 ---
 
 ## 🧑‍💻 Author
-**Soumik Maity**  
+**Mohit Badola**  
 🔗 [GitHub Profile](https://github.com/mohit2badola)
 
 ---
