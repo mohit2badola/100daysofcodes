@@ -60,8 +60,8 @@ You can check out my C programs live on my GitHub Pages site here:
 ---
 
 ## 📅 Progress
-✅ **Days Completed:** 50 / 100  
-🕓 **Ongoing...**  
+✅ **Days Completed:** 100 / 100  
+🕓 **Completed [02/12/2025]**  
 
 ---
 
